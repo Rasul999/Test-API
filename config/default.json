@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://rasul:adgjmptw@cluster0.hx5vb.mongodb.net/app?retryWrites=true&w=majority"
+}
